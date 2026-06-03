@@ -187,3 +187,10 @@ This hackathon project demonstrates rapid prototyping with production-quality co
 ## 📄 License
 
 Open source for educational purposes.
+
+---
+
+## 🔗 Repository
+
+- **GitHub Remote**: [https://github.com/amarades/Agroflow](https://github.com/amarades/Agroflow)
+
