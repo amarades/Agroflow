@@ -1,0 +1,20 @@
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Databases
+backend/database/db.sqlite3
+backend/uploads/
+backend/scripts/forecast_models/
+
+# Node / JS
+node_modules/
+dist/
+.env
+.DS_Store
